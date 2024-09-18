@@ -1,0 +1,9 @@
+﻿TripID,Vehicle,Date,CommuteTime,Destination,Weather
+0,Street Triple,11/8/2022,18.5,Franklin,rain
+1,Street Triple,11/9/2022,19,Taylor,sun
+2,Street Triple,11/10/2022,17,Franklin,sun
+3,Passat,11/15/2022,22,Taylor,snow
+4,Passat,11/16/2022,19,Taylor,snow
+5,Passat,11/28/2022,21,Taylor,rain
+6,Passat,12/2/2022,19,Franklin,sun
+7,Street Triple,12/3/2022,20,Library,sun
